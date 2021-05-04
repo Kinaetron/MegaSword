@@ -1,0 +1,1 @@
+{"Spritename":"ParryBox","HitBoxes":[{"NextMove":false,"X":41,"Y":40,"Width":15,"Height":31,"FrameNo":0,"ZoomLevel":1},{"NextMove":false,"X":36,"Y":39,"Width":21,"Height":32,"FrameNo":3,"ZoomLevel":1}],"HurtBoxes":[{"NextMove":false,"X":49,"Y":31,"Width":14,"Height":44,"FrameNo":2,"ZoomLevel":1},{"NextMove":false,"X":56,"Y":32,"Width":13,"Height":41,"FrameNo":1,"ZoomLevel":1}]}
